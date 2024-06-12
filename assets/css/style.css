@@ -37,6 +37,12 @@ h1 {
     font-weight: 800;
 }
 
+@media (max-width:576px){
+    .px65{
+        font-size:35px;
+    }
+}
+
 body {
     background-color: var(--primary-color);
     font-family: "DM Serif Display", serif;
